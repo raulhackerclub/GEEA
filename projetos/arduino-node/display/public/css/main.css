@@ -1,0 +1,129 @@
+.painel {
+  text-align: center;
+}
+
+.painel > div > input {
+  font-size: 34px;
+  width: 60px;
+  text-align: center;
+  border: 1px solid rgb(170, 170, 170);
+  border-radius: 4px;
+  height: 60px;
+  line-height: 60px;
+}
+
+.painel > div > input[type=number]::-webkit-outer-spin-button,
+.painel > div > input[type=number]::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+       -moz-appearance: none;
+            appearance: none;
+    margin: 0;
+}
+
+/*
+ * Estilo do display
+ */
+.display {
+  position: relative;
+  height: 350px;
+  width: 240px;
+  display: inline-block;
+}
+
+.display .led {
+  color: #DDD;
+}
+
+.display .led.top,
+.display .led.bottom {
+  position: absolute;
+  height: 0;
+  left: 10px;
+  width: 100px;
+  border-left: 30px solid transparent;
+  border-right: 30px solid transparent;
+}
+
+.display .led.top {
+  top: 0px;
+  border-top: 30px solid;
+}
+
+.display .led.bottom {
+  top: 320px;
+  border-bottom: 30px solid;
+}
+
+.display .led.middle {
+  position: absolute;
+  top: 162px;
+  left: 35px;
+  -webkit-transform: scale(1.4);
+  -moz-transform: scale(1.4);
+  -ms-transform: scale(1.4);
+  -o-transform: scale(1.4);
+  transform: scale(1.4);
+}
+
+.display .led.middle:after,
+.display .led.middle:before {
+  display: block;
+  content: "";
+  height: 0;
+  width: 80px;
+  border-left: 15px solid transparent;
+  border-right: 15px solid transparent;
+
+}
+
+.display .led.middle:after {
+  border-top: 15px solid;
+}
+.display .led.middle:before {
+  border-bottom: 15px solid;
+}
+
+.display .led.left,
+.display .led.right {
+  position: absolute;
+  height: 100px;
+  width: 0;
+  border-top: 30px solid transparent;
+  border-bottom: 30px solid transparent;
+}
+
+.display .led.right {
+  left: 150px;
+  border-right: 30px solid;
+}
+
+.display .led.left {
+  left: 0;
+  border-left: 30px solid;
+}
+
+.display .led.left-top,
+.display .led.right-top {
+  top: 10px;
+}
+
+.display .led.left-bottom,
+.display .led.right-bottom {
+  top: 180px;
+}
+
+.display .led.point {
+  position: absolute;
+  top: 310px;
+  left: 200px;
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
+  background: #DDD;
+}
+.display .led.on {
+  color: #D00;
+}
+.display .led.point.on {
+  background: #D00;
+}

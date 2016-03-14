@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="utf-8">
+    <title>Teste</title>
+    <link rel="stylesheet" href="/css/main.css">
+  </head>
+  <body ng-app="myApp">
+
+    <div ng-controller="MainCtrl" class="painel">
+      <display ng-model="numero">
+        <led class="top"></led>
+        <led class="left left-top on"></led>
+        <led class="right right-top"></led>
+        <led class="middle"></led>
+        <led class="left left-bottom"></led>
+        <led class="right right-bottom"></led>
+        <led class="bottom"></led>
+        <led class="point"></led>
+      </display>
+      <div>
+        <input autofocus type="number" ng-model="numero" value="" min="0" max="9">
+      </div>
+    </div>
+
+    <script src="/socket.io/socket.io.js"></script>
+    <script src="/components/angular/angular.min.js"></script>
+    <script src="/js/app.js"></script>
+  </body>
+</html>
