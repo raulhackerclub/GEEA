@@ -1,0 +1,23 @@
+{
+  "name": "geea",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Rodolfo Silva"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "angularjs#^1.5.0"
+  }
+}
