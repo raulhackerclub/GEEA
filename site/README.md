@@ -1,5 +1,4 @@
-# geea.github.io
+# raulhackerclub.github.io/geea
 
-Site Grupo de Estudo de Eletrônica e Arduino
+Site do Grupo de Estudo de Eletrônica e Arduino
 
-..
