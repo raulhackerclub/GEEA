@@ -10,8 +10,8 @@ title: GEEA
 email: contato@raulhc.cc
 description: > #
   Grupo de Estudo de Eletrônica e Arduino
-baseurl: "/GEEA/" # the subpath of your site, e.g. /blog
-url: "http://raulhackerclub.github.io/GEEA/" # the base hostname & protocol for your site
+baseurl: "/GEEA" # the subpath of your site, e.g. /blog
+url: "http://raulhackerclub.github.io/GEEA" # the base hostname & protocol for your site
 twitter_username: raulhackerclub
 github_username:  raulhackerclub
 
