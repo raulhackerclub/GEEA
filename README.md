@@ -34,9 +34,9 @@ Os encontros ocorrem semanalmente apartir das 14:00 às 18:00.
 
 ## Livros
 
-[Livro de McRoberts](http://raulhc.cc/Doc/LivroArduino) - no site do Raul
-[Make Eletrônics](http://www.makershed.com/products/make-electronics-2ed) - Inglês
-[Arduino Cookbook](http://shop.oreilly.com/product/9780596802486.do) -Inglês 
+[Livro de McRoberts](http://raulhc.cc/Doc/LivroArduino) - no site do Raul   
+[Make Eletrônics](http://www.makershed.com/products/make-electronics-2ed) - Inglês    
+[Arduino Cookbook](http://shop.oreilly.com/product/9780596802486.do) -Inglês        
 
 ## Eventos, Cursos e Workshops
 
