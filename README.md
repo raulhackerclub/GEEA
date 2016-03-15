@@ -13,8 +13,8 @@ O GEEA tem como objetivo prover uma fonte principal de informações relacionada
   7. [Eventos, Cursos e Workshops](#eventos-cursos-e-workshops)
   8. [Meetups](#meetups)
   9. [Ferramentas](#ferramentas)
-  10. [Exemplos](#exemplos)
-  11. [Projetos do GEEA](#projetos-do-geea)
+  10. [Exemplos](/exemplos/README.md)
+  11. [Projetos do GEEA](/projetos/README.md)
 
 ## O que é Eletrônica?
 
@@ -33,7 +33,3 @@ O GEEA tem como objetivo prover uma fonte principal de informações relacionada
 ## Meetups
 
 ## Ferramentas
-
-## Exemplos
-
-## Projetos do GEEA
