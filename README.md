@@ -14,32 +14,41 @@ Os encontros ocorrem semanalmente apartir das 14:00 às 18:00.
   2. [O que é Arduino?](#o-que-é-arduino)
   3. [Apresentações](#apresentações)
   4. [Artigos](#artigos)
-  5. [Vídeos](#vídeos)
+  5. [Vídeos](#videos)
   6. [Livros](#livros)
   7. [Eventos, Cursos e Workshops](#eventos-cursos-e-workshops)
   8. [Meetups](#meetups)
   9. [Ferramentas](#ferramentas)
-  10. [Exemplos](/exemplos/README.md)
-  11. [Projetos do GEEA](/projetos/README.md)
+  10. [Como contribuir](#como-contribuir)
+  11. [Exemplos](/exemplos/README.md)
+  12. [Projetos do GEEA](/projetos/README.md)
 
-## O que é Eletrônica?
+## 1. O que é Eletrônica?
 
-## O que é Arduino?
+## 2. O que é Arduino?
 
-## Apresentações
+## 3. Apresentações
 
-## Artigos
+## 4. Artigos
 
-## Videos
+## 5. Videos
 
-## Livros
+## 6. Livros
 
 [Livro de McRoberts](http://raulhc.cc/Doc/LivroArduino) - no site do Raul   
 [Make Eletrônics](http://www.makershed.com/products/make-electronics-2ed) - Inglês    
 [Arduino Cookbook](http://shop.oreilly.com/product/9780596802486.do) -Inglês        
 
-## Eventos, Cursos e Workshops
+## 7. Eventos, Cursos e Workshops
 
-## Meetups
+## 8. Meetups
 
-## Ferramentas
+## 9. Ferramentas
+
+## 10. Como contribuir
+
+  * Faça um fork do repositório
+  * Cria uma branch para sua contribuição: `git checkout -b sua-contribuicao`
+  * Commit as mudanças: `git commit -am 'Mensagem sobre a mudança'`
+  * Suba as alterações: `git push origin sua-contribuicao`
+  * Manda um pull request
