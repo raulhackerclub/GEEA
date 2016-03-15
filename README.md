@@ -1,29 +1,25 @@
-# GEEA
+# GEEA - Grupo de Estudo de Eletrônica e Arduino
 
-O Grupo de Estudo de Eletrônica e Arduino tem como objetivo prover uma fonte principal de informações relacionadas a conteúdo para o aprendizado de eletronica e arduino será mantido pela comunidade do Raul Hacker Club
+O GEEA tem como objetivo prover uma fonte principal de informações relacionadas a conteúdo para o aprendizado de eletronica e arduino será mantido pela comunidade do Raul Hacker Club
 
-# Tópicos
+## Tópicos
 
-# O que é Eletrônica?
+## O que é Eletrônica?
 
-# O que é Arduino?
+## O que é Arduino?
 
-# Apresentações
+## Apresentações
 
-# Artigos
+## Artigos
 
-# Videos
+## Videos
 
-# Livros
+## Livros
 
-# Eventos, Cursos e Workshops
+## Eventos, Cursos e Workshops
 
-# Ferramentas
+## Ferramentas
 
-# Exemplos
+## Exemplos
 
-# Projetos do GEEA
-
-
-
-..
+## Projetos do GEEA
