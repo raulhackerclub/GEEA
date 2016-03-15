@@ -4,6 +4,18 @@ O GEEA tem como objetivo prover uma fonte principal de informações relacionada
 
 ## Tópicos
 
+  1. [O que é Eletrônica?](#o-que-é-eletrônica)
+  2. [O que é Arduino?](#o-que-é-arduino)
+  3. [Apresentações](#apresentações)
+  4. [Artigos](#artigos)
+  5. [Vídeos](#vídeos)
+  6. [Livros](#livros)
+  7. [Eventos, Cursos e Workshops](#eventos-cursos-e-workshops)
+  8. [Meetups](#meetups)
+  9. [Ferramentas](#ferramentas)
+  10. [Exemplos](#exemplos)
+  11. [Projetos do GEEA](#projetos-do-geea)
+
 ## O que é Eletrônica?
 
 ## O que é Arduino?
@@ -17,6 +29,8 @@ O GEEA tem como objetivo prover uma fonte principal de informações relacionada
 ## Livros
 
 ## Eventos, Cursos e Workshops
+
+## Meetups
 
 ## Ferramentas
 
