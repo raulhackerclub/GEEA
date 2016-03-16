@@ -25,6 +25,8 @@ Os encontros ocorrem semanalmente apartir das 14:00 às 18:00.
 
 ## 1. O que é Eletrônica?
 
+A eletrônica é o ramo da ciência que estuda o uso de circuitos formados por componentes elétricos e eletrônicos, com o objetivo principal de representar, armazenar, transmitir ou processar informações além do controle de processos e servo mecanismos. Também se pode afirmar que os circuitos internos dos computadores (que armazenam e processam informações), os sistemas de telecomunicações (que transmitem informações), os diversos tipos de sensores e transdutores (que representam grandezas físicas - informações - sob forma de sinais elétricos) estão, todos, dentro da área de interesse da eletrônica.
+
 ## 2. O que é Arduino?
 
 ## 3. Apresentações
