@@ -29,6 +29,8 @@ A eletrônica é o ramo da ciência que estuda o uso de circuitos formados por c
 
 ## 2. O que é Arduino?
 
+É uma plataforma de prototipagem eletrônica de hardware livre e de placa única, projetada com um microcontrolador Atmel AVR com suporte de entrada/saída embutido, uma linguagem de programação padrão, a qual tem origem em Wiring, e é essencialmente C/C++. O objetivo do projeto é criar ferramentas que são acessíveis, com baixo custo, flexíveis e fáceis de se usar por artistas e amadores. Principalmente para aqueles que não teriam alcance aos controladores mais sofisticados e de ferramentas mais complicadas.
+
 ## 3. Apresentações
 
 ## 4. Artigos
