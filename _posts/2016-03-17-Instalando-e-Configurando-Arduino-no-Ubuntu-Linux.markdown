@@ -22,16 +22,12 @@ Instalando.
 
 O primeiro passo a ser realizado é conectar o Arduino na porta USB do seu computador utilizando um cabo USB A - B. Após conectar o Arduino verifique se o LED Power (PWD) está acesso. Também se faz necessário verificar se a placa foi reconhecida pelo Ubuntu através do comando `lsub`, conforme demostrado logo abaixo.
 
-{% highlight ruby %}
-$ lsub
-{% endhighlight %}
+`$ lsub`
 
 Se sua placa foi reconhecida pelo sistema, execute os comando a seguir para realizara a instalação do Arduino IDE:
 
-{% highlight ruby %}
-$ sudo apt-get update
-$ sudo apt-get install arduino
-{% endhighlight %}
+`$ sudo apt-get update`
+`$ sudo apt-get install arduino`
 
 O apt-get irá fazer a atualização do repositório e logo depois a instalação.
 
