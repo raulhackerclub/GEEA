@@ -18,7 +18,9 @@ Este artigo tem como finalidade explicar como realizar a instalação e  configu
 
 O primeiro passo a ser realizado é conectar o Arduino na porta USB do seu computador utilizando um cabo USB A - B. Após conectar o Arduino verifique se o LED Power (PWD) está acesso. Também se faz necessário verificar se a placa foi reconhecida pelo Ubuntu através do comando `lsub`, conforme demostrado logo abaixo.
 
-`$ lsub`
+```
+$ lsub`
+```
 
 Se sua placa foi reconhecida pelo sistema, execute os comando a seguir para realizara a instalação do Arduino IDE:
 
