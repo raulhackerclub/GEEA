@@ -26,7 +26,7 @@ O primeiro passo a ser realizado é conectar o Arduino na porta USB do seu compu
 
 Se sua placa foi reconhecida pelo sistema, execute os comando a seguir para realizara a instalação do Arduino IDE:
 
-`$ sudo apt-get update`
+`$ sudo apt-get update`                     
 `$ sudo apt-get install arduino`
 
 O apt-get irá fazer a atualização do repositório e logo depois a instalação.
