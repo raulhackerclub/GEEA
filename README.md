@@ -39,6 +39,8 @@ A eletrônica é o ramo da ciência que estuda o uso de circuitos formados por c
 
 ## 4. Artigos
 
+[Arduino: hardware e software open-source](http://www.hardware.com.br/artigos/arduino/)
+
 ## 5. Videos
 
 ## 6. Livros
