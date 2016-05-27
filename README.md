@@ -50,6 +50,7 @@ A eletrônica é o ramo da ciência que estuda o uso de circuitos formados por c
 [Arduino Cookbook](http://shop.oreilly.com/product/9780596802486.do) -Inglês        
 
 ## 7. Eventos, Cursos e Workshops
+Encontro de Redes Neurais do GEEA()
 
 ## 8. Meetups
 
