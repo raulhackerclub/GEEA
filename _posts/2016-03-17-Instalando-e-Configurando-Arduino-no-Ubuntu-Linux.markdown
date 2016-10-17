@@ -1,12 +1,7 @@
 ---
 layout: post
 title: "Instalando e Configurando Arduino no Ubuntu Linux"
-date: 2016-03-17 15:32:25  
-author:
-    name: Angelo Brandão     
-    mail: angelobms@gmail.com    
-    github: angelobms
-    twitter: @angelobms                
+date: 2016-03-17 15:32:25                 
 categories: "Arduino"  
 ---
 
