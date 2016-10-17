@@ -12,7 +12,7 @@ categories: "Arduino"
 
 Este artigo tem como finalidade explicar como realizar a instalação e  configuração do software `Arduino IDE` no Ubuntu Linux ou qualquer outra distribuuição linux baseada em Debian.
 
-## Instalando.
+### Instalando.
 
 O primeiro passo a ser realizado é conectar o Arduino na porta USB do seu computador utilizando um cabo USB A - B. Após conectar o Arduino verifique se o LED Power (PWD) está acesso. Também se faz necessário verificar se a placa foi reconhecida pelo Ubuntu através do comando `lsub`, conforme demostrado logo abaixo.
 
@@ -29,26 +29,26 @@ $ sudo apt-get install arduino
 
 O apt-get irá fazer a atualização do repositório e logo depois a instalação.
 
-## Configurando.
+### Configurando.
 
 Abra o Arduino IDE apartir do lançador do Ubuntu digitando `arduino` na caixa de pesquisa e clicando icone conforme demostrado na imagem a seguir.
 
-![screenshot_arduino_01](/assets/imagens/screenshot_arduino_01.png)
+![screenshot_arduino_01](http://raulhackerclub.github.io/GEEA/assets/imagens/screenshot_arduino_01.png)
 
 O Arduino IDE irá solicitar que seu usuário esteja no grupo "diaout" para que seja possivel enviar código ao Arduino. Clique em Add na caixa de diálogo que surge para executar essa operação.
 
-![screenshot_arduino_02](/assets/imagens/screenshot_arduino_02.png)
+![screenshot_arduino_02](http://raulhackerclub.github.io/GEEA/assets/imagens/screenshot_arduino_02.png)
 
 Logo após digite sua senha para autenticação e clique em Autenticar.
 
-![screenshot_arduino_03](/assets/imagens/screenshot_arduino_03.png)
+![screenshot_arduino_03](http://raulhackerclub.github.io/GEEA/assets/imagens/screenshot_arduino_03.png)
 
 Clique no menu Tools, submenu Board, e então selecione sua placa na lista suspensa.
 
-![screenshot_arduino_04](/assets/imagens/screenshot_arduino_04.png)
+![screenshot_arduino_04](http://raulhackerclub.github.io/GEEA/assets/imagens/screenshot_arduino_04.png)
 
  Clique no menu Tools, submenu Serial Port, e então selecione a porta COM (emulada) onde o arduino está conectado. Caso não seja possível selecionar uma porta reinicie o sistema e tente novamente.
 
-![screenshot_arduino_05](/assets/imagens/screenshot_arduino_05.png)
+![screenshot_arduino_05](http://raulhackerclub.github.io/GEEA/assets/imagens/screenshot_arduino_05.png)
 
 Pronto! Agora o Arduino está Instalado e configrado corretamente. O proximo passo é desenvolver um projeto e carregá-lo no microcontrolador.
