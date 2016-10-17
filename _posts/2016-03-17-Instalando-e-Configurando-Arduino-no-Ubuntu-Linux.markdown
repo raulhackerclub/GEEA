@@ -4,7 +4,7 @@ title: "Instalando e Configurando Arduino no Ubuntu Linux"
 date: 2016-03-17 15:32:25 
 author: 
     name: Angelo Brandão
-    github: angeloms
+    github: angelobms
 categories: "Arduino"  
 ---
 
@@ -33,22 +33,22 @@ O apt-get irá fazer a atualização do repositório e logo depois a instalaçã
 
 Abra o Arduino IDE apartir do lançador do Ubuntu digitando `arduino` na caixa de pesquisa e clicando icone conforme demostrado na imagem a seguir.
 
-![screenshot_arduino_01](https://github.com/raulhackerclub/GEEA/assets/imagens/screenshot_arduino_01.png)
+![screenshot_arduino_01](/assets/imagens/screenshot_arduino_01.png)
 
 O Arduino IDE irá solicitar que seu usuário esteja no grupo "diaout" para que seja possivel enviar código ao Arduino. Clique em Add na caixa de diálogo que surge para executar essa operação.
 
-![screenshot_arduino_02](https://github.com/raulhackerclub/GEEA/assets/imagens/screenshot_arduino_02.png)
+![screenshot_arduino_02](/assets/imagens/screenshot_arduino_02.png)
 
 Logo após digite sua senha para autenticação e clique em Autenticar.
 
-![screenshot_arduino_03](https://github.com/raulhackerclub/GEEA/assets/imagens/screenshot_arduino_03.png)
+![screenshot_arduino_03](/assets/imagens/screenshot_arduino_03.png)
 
 Clique no menu Tools, submenu Board, e então selecione sua placa na lista suspensa.
 
-![screenshot_arduino_04](https://github.com/raulhackerclub/GEEA/assets/imagens/screenshot_arduino_04.png)
+![screenshot_arduino_04](/assets/imagens/screenshot_arduino_04.png)
 
  Clique no menu Tools, submenu Serial Port, e então selecione a porta COM (emulada) onde o arduino está conectado. Caso não seja possível selecionar uma porta reinicie o sistema e tente novamente.
 
-![screenshot_arduino_05](https://github.com/raulhackerclub/GEEA/assets/imagens/screenshot_arduino_05.png)
+![screenshot_arduino_05](/assets/imagens/screenshot_arduino_05.png)
 
 Pronto! Agora o Arduino está Instalado e configrado corretamente. O proximo passo é desenvolver um projeto e carregá-lo no microcontrolador.
